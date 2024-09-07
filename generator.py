@@ -12,7 +12,7 @@ window.resize(500, 400)
 
 text = QLabel("Переможець:")
 winner = QLabel("?")
-btn = QPushButton("Натисни, щоб обрати переможця")
+btn = QPushButton("Згенерувати")
 
 start = QLineEdit()
 start.setPlaceholderText("Початок")
